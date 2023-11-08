@@ -1,5 +1,6 @@
 # Getting Started with ebuy - e-Commerce React project 
-https://github.com/dipakpatil5050/ebuy-Full_Stack_E-commerce-React.js/assets/92545685/7e5b1752-156b-4fc6-b63d-a9c946a061a7
+
+![ebuy-logo](https://github.com/dipakpatil5050/ebuy-Full_Stack_E-commerce-React.js/assets/92545685/7e5b1752-156b-4fc6-b63d-a9c946a061a7)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
