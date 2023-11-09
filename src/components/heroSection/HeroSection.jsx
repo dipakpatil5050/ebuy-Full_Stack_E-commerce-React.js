@@ -3,7 +3,7 @@ import React from "react";
 function HeroSection() {
   return (
     <div>
-      <img src=".\public\images\hero-img.jpg" alt="hero-img" />
+      <img src=".\public\images\hero.jpg" alt="hero-img" />
     </div>
   );
 }
