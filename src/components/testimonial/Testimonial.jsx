@@ -27,7 +27,7 @@ function Testimonial() {
                 <img
                   alt="testimonial"
                   className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-                  src="public\images\user.png"
+                  src="https://github.com/dipakpatil5050/ebuy-Full_Stack_E-commerce-React.js/blob/main/public/images/user.png?raw=true"
                 />
                 <p
                   style={{ color: mode === "dark" ? "white" : "" }}

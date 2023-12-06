@@ -5,7 +5,7 @@ function HeroSection() {
     <div>
       <img
         src="https://github.com/dipakpatil5050/ebuy-Full_Stack_E-commerce-React.js/blob/main/public/images/hero.jpg?raw=true"
-        alt="hero-img"
+        alt="heroimg"
       />
     </div>
   );

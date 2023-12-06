@@ -219,7 +219,10 @@ function Navbar() {
                     >
                       {/* EBuy */}
                       <div className="w-16">
-                        <img src="public\images\logo.png" alt="Logo" />
+                        <img
+                          src="https://github.com/dipakpatil5050/ebuy-Full_Stack_E-commerce-React.js/blob/main/public/images/logo.png?raw=true"
+                          alt="Logo"
+                        />
                       </div>
                     </h1>
                   </div>
@@ -320,7 +323,7 @@ function Navbar() {
                   <a href="#" className="flex items-center text-gray-700 ">
                     <img
                       className="inline-block w-10 h-10 rounded-full"
-                      src=".\public\images\user.png"
+                      src="https://github.com/dipakpatil5050/ebuy-Full_Stack_E-commerce-React.js/blob/main/public/images/user.png?raw=true"
                       alt="Dipak Patil"
                     />
                   </a>
