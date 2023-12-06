@@ -134,7 +134,7 @@ function Navbar() {
                     >
                       <img
                         className="inline-block w-10 h-10 rounded-full"
-                        src="https://randomuser.me/api/portraits/men/1.jpg"
+                        src="https://i.pinimg.com/1200x/64/81/22/6481225432795d8cdf48f0f85800cf66.jpg"
                         alt="Profile Photo"
                       />{" "}
                     </Link>
@@ -165,7 +165,7 @@ function Navbar() {
 
       <header className="relative bg-white">
         <p
-          className="flex h-7 rounded-md items-center justify-center bg-[#3D86A9] px-4 text-sm font-medium text-white sm:px-6 lg:px-8"
+          className="flex h-7 items-center justify-center bg-[#3D86A9] px-4 text-sm font-medium text-white sm:px-6 lg:px-8"
           style={{
             backgroundColor: mode === "dark" ? "rgb(62 64 66)" : "",
             color: mode === "dark" ? "white" : "",
@@ -176,7 +176,7 @@ function Navbar() {
 
         <nav
           aria-label="Top"
-          className="bg-gray-100  px-4 sm:px-6 lg:px-8 shadow-xl rounded-md"
+          className="bg-gray-100  px-4 sm:px-6 lg:px-8 shadow-xl"
           style={{
             backgroundColor: mode === "dark" ? "#282c34" : "",
             color: mode === "dark" ? "white" : "",

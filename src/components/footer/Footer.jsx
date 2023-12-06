@@ -166,7 +166,7 @@ function Footer() {
 
             <a>
               <p className="text-sm content-center opacity-80 ml-1 sm:ml-96 sm:mt-0 mt-4">
-                Design by Dipak U Patil
+                Design and Developed by Dipak U Patil
               </p>
             </a>
             <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
