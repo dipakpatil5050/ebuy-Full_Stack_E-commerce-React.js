@@ -134,8 +134,8 @@ function Navbar() {
                     >
                       <img
                         className="inline-block w-10 h-10 rounded-full"
-                        src=".\public\images\user.png"
-                        alt="Dipak Patil"
+                        src="https://randomuser.me/api/portraits/men/1.jpg"
+                        alt="Profile Photo"
                       />{" "}
                     </Link>
                   </div>
@@ -228,26 +228,26 @@ function Navbar() {
               <div className="ml-auto flex items-center">
                 <div className="hidden lg:flex lg:flex-1 lg:items-center lg:justify-end lg:space-x-6">
                   {/* // Search bar into Navbar : */}
-                    <div className="w-8">
-                      <img
-                        src="https://cdn-icons-png.flaticon.com/128/9177/9177086.png"
-                        alt=""
-                      />
-                    </div>
-                    <div className="border-solid border-2 rounded-md border-pink-900 ">
-                      <input
-                        type="text"
-                        name="searchkey"
-                        value={searchkey}
-                        onChange={(e) => setSearchkey(e.target.value)}
-                        id="searchkey"
-                        placeholder="Search here"
-                        className="px-8 py-3 w-full rounded-md bg-violet-0 border-transparent outline-0 text-sm"
-                        style={{
-                          backgroundColor: mode === "dark" ? "rgb(64 66 70)" : "",
-                          color: mode === "dark" ? "white" : "",
-                        }}
-                      />
+                  <div className="w-8">
+                    <img
+                      src="https://cdn-icons-png.flaticon.com/128/9177/9177086.png"
+                      alt=""
+                    />
+                  </div>
+                  <div className="border-solid border-2 rounded-md border-pink-900 ">
+                    <input
+                      type="text"
+                      name="searchkey"
+                      value={searchkey}
+                      onChange={(e) => setSearchkey(e.target.value)}
+                      id="searchkey"
+                      placeholder="Search here"
+                      className="px-8 py-3 w-full rounded-md bg-violet-0 border-transparent outline-0 text-sm"
+                      style={{
+                        backgroundColor: mode === "dark" ? "rgb(64 66 70)" : "",
+                        color: mode === "dark" ? "white" : "",
+                      }}
+                    />
                     {/* // till here search bar is present */}
                   </div>
                   <Link

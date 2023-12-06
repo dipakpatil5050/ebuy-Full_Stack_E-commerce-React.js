@@ -3,7 +3,10 @@ import React from "react";
 function HeroSection() {
   return (
     <div>
-      <img src=".\public\images\hero.jpg" alt="hero-img" />
+      <img
+        src="https://github.com/dipakpatil5050/ebuy-Full_Stack_E-commerce-React.js/blob/main/public/images/hero.jpg?raw=true"
+        alt="hero-img"
+      />
     </div>
   );
 }
